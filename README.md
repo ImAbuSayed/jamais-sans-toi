@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jamais-sans-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Jamais Sans Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jamais-sans-toi/) |
+| **Get License** | [Commercial Licensing for Jamais Sans Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jamais-sans-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu brilles sous les néons, c'est l'heure du crime, baby
+> Ton parfum de minuit me rend presque crazy
+> Je capte ton regard, le monde s'arrête autour
+> Jamais sans toi, on va danser jusqu'au jour
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Jamais Sans Toi
+
+This log tracks the cryptographic history and versioning for the song **Jamais Sans Toi** (jamais-sans-toi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T06:26:20.556920 | `v1` | `0b9d4a937f536608b2bfb5aed22264a281d40cfabc0ceeb5e77b951f16a6946d` | `02c6dded2a1f3ecf4505fe3bb3ed186186f2a771fe73f25135d6a1aeec21a61f` | `2026-06-27_jamais-sans-toi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

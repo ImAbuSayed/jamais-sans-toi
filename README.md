@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/jamais-sans-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Jamais Sans Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jamais-sans-toi/) |
+| **Get License** | [Get License For Jamais Sans Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/jamais-sans-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0b9d4a937f536608b2bfb5aed22264a281d40cfabc0ceeb5e77b951f16a6946d` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
